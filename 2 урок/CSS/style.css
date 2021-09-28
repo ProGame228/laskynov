@@ -1,0 +1,23 @@
+h2 {
+    color: rgb(251, 255, 0);}
+
+li{
+    color: gold}
+   body{
+    background: linear-gradient(#00b7ff, rgb(255, 255, 255)) fixed;
+}
+div {
+ width: 70%;
+ margin: auto;
+ min-height: 2000px;
+ background: #fff;}
+ 
+
+ td, tr {
+     width: 500px;;
+     height: 115px; ;
+     border: 2px solid black;
+   
+ }
+  
+ 
